@@ -1,15 +1,7 @@
-
-<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/cassiaalvalaz/cassiaalvalaz/assets/97697928/9acbb44e-98f8-4f83-82f7-c19408c161cd" />
-&nbsp;&nbsp;&nbsp;
-
 <div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com.cassiaalvalaz=kyronsatt&theme=radical&mode=weekly" />
+<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=kyronsatt&theme=radical&mode=weekly" />
 <img width=40% align="center" src="https://github-readme-stats-git-main-cassiaalvalaz.vercel.app/api/top-langs/?username=kyronsatt&show_icons=true&theme=radical&layout=compact" />
  </div>
- 
- &nbsp;
- &nbsp;
-
 
 ## My Skills
 
