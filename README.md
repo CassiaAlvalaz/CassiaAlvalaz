@@ -41,7 +41,7 @@
 
 <div align="center">
 <br><p align="centre"><b>Contagem de Visitantes</b></p>
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{cassiaalvalaz}/count.svg?color=BC8F8F" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{cassiaalvalaz}/count.svg"/></p> 
 <br>
 </div>
 
