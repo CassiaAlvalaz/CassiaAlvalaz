@@ -1,4 +1,5 @@
-<img width=100% src="https://media.licdn.com/dms/image/D5616AQH5tkC0tzAaYA/profile-displaybackgroundimage-shrink_350_1400/0/1689177748103?e=1720656000&v=beta&t=GX-Aw6i9CtfTlnX4vJLhF0DZCFvBGi7STXjXSP6BSTk?type=waving&color=f17ea1&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=wave&height=120&color=BC8F8F&animation=twinkling&descAlign=39"/>
+
 
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+code&size=20&duration=4000&pause=1000&color=ffc4d8&center=true&vCenter=true&width=1100&height=25&lines=Bem-vindo(a)+ao+meu+perfil!" alt="Typing SVG"/></a>
