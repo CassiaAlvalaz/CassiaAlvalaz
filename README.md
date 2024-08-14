@@ -6,8 +6,8 @@
 <p align="center"></p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
-<img width=50% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=cassiaalvalaz&theme=radical&mode=weekly" />
-<img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cassiaalvalaz&theme=radical&layout=compact&langs_count=8&card_width=300" />
+<img width=55% align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CassiaAlvalaz&theme=radical"/> 
+<img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CassiaAlvalaz&theme=radical&layout=compact" />
 </div>
  
  &nbsp;
@@ -29,9 +29,6 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)&nbsp;
-
-#### Estudando neste momento:
-
 
 #### Ferramentas:
 
@@ -67,4 +64,5 @@
 
 <a href="https://github.com/caazia">
 <a href="https://github.com/kyronsatt">
+<a href="https://github.com/CassioJhones">
  
