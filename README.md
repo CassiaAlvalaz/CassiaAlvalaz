@@ -7,7 +7,7 @@
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CassiaAlvalaz&theme=radical"/> 
-<img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CassiaAlvalaz&theme=radical&layout=compact" />
+<img height=100 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CassiaAlvalaz&theme=radical&layout=compact" />
 </div>
  
  &nbsp;
