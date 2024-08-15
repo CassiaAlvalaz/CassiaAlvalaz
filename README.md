@@ -1,12 +1,13 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=wave&height=120&color=BC8F8F&animation=twinkling&descAlign=39"/>
 
-<div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+code&size=20&duration=4000&pause=1000&color=BC8F8F&center=true&vCenter=true&width=1100&height=25&lines=Bem-vindo(a)+ao+meu+perfil!" alt="Typing SVG"/>
 
 <p align="center"></p>&nbsp;
 
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CassiaAlvalaz&theme=radical"/> 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CassiaAlvalaz&theme=radical&layout=compact" />
+<div align="center">
+ <img width=60% align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CassiaAlvalaz&theme=radical"/> 
+ <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CassiaAlvalaz&theme=radical&layout=compact" />
+</div>
 
  &nbsp;
  &nbsp;
